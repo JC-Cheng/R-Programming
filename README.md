@@ -1,2 +1,2 @@
-# R-Programming-Assignment-2
-Coursera: R Programming
+# R-Programming
+Coursera: R Programming-Assignment-2
